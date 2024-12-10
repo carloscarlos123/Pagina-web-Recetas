@@ -1,6 +1,12 @@
-🔴Creación del proyecto final de una página web para 1ºASIR en la asignatura Lenguajes de marca.🔴
+# 🔴 Creación del Proyecto Final 🔴  
 
-Lenguajes utilizados: \n
-HTML
-CSS
-JavaScript
+**Asignatura:** Lenguajes de Marca  
+**Curso:** 1º ASIR  
+
+## Página Web  
+[Web de Recetas](https://webrecetas.vercel.app)  
+
+## Lenguajes Utilizados  
+- **HTML**  
+- **CSS**  
+- **JavaScript**
