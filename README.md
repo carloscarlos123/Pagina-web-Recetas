@@ -1,6 +1,6 @@
 # 🔴 Creación del Proyecto Final 🔴  
 
-**Asignatura:** Lenguajes de Marca  
+**Asignatura:** Lenguajes de Marcas
 **Curso:** 1º ASIR  
 
 ## Página Web  
